@@ -1,0 +1,25 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.head {
+    text-align: center;
+}
+
+
+.head p {
+    font-style: italic;
+}
+
+.recipe-links ul {
+    text-align: center;
+    list-style: inside;
+}
+img {
+    height: auto;
+    width: 600px;
+    
+}
+a:hover {
+    color: yellowgreen;
+}
